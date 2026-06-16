@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Zixuan+Wang+%7C+%E7%8E%8B%E5%AD%90%E8%BD%A9;AI+%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88;Full-Stack+Developer;2026+Graduate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Zixuan+Wang+%7C+%E7%8E%8B%E5%AD%90%E8%BD%A9;AI+%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86+%7C+AI+%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91;2026+Graduate+%E4%B8%AD%E4%BC%AF%E5%86%9C%E4%B8%9A%E5%B7%A5%E7%A8%8B%E5%AD%A6%E9%99%A2" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## 👋 你好，我是王子轩
 
-AI 应用开发工程师 & AI 全栈开发 · 专注 LLM 集成 + 前端工程 + 推荐系统
+AI 产品经理 & AI 全栈开发 · 两周内独立完成 2 个 AI 产品 0→1
 
 > *"以道驭术，以术成器" — 做有温度的技术，写有灵魂的代码*
 
@@ -37,15 +37,15 @@ AI 应用开发工程师 & AI 全栈开发 · 专注 LLM 集成 + 前端工程 +
 
 ## 📌 Featured Projects
 
-### 🏛️ [非遗文化传播系统](https://github.com/ryan-flow/heritage-crs-platform)
+### 🏛️ [非遗文化传播系统](https://heritage.ryanflow.cloud) · [GitHub](https://github.com/ryan-flow/heritage-crs-platform)
 基于 CRS 对话推荐引擎与 AI 数字人的非遗文化传播平台 — 知识图谱 + 内容治理 + 智能推荐
 <br>`Python` `FastAPI` `React` `Neo4j` `SQLAlchemy` `微信小程序`
 
-### 📋 [PRD Agent RAG](https://github.com/ryan-flow/prd-agent-rag)
+### 📋 [PRD Agent RAG](https://prd.ryanflow.cloud) · [GitHub](https://github.com/ryan-flow/prd-agent-rag)
 产品需求文档 AI 生成器 — RAG 检索 + Agent 追问 → 结构化 PRD
 <br>`FastAPI` `PydanticAI` `ChromaDB` `DeepSeek` `React` `WebSocket`
 
-### 🧠 [Refine Yourself](https://github.com/ryan-flow/refine-yourself)
+### 🧠 [Refine Yourself](https://refineyourself.asia) · [GitHub](https://github.com/ryan-flow/refine-yourself)
 AI 人格克隆 — 上传聊天记录 → DeepSeek 提炼五层人格 → 可对话的数字分身
 <br>`Next.js` `Supabase` `DeepSeek` `TypeScript` `PostgreSQL` `shadcn/ui`
 
